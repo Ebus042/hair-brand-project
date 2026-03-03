@@ -2,7 +2,7 @@ import heroImg from "../assets/hair-hero.png";
 
 const Hero = () => {
   return (
-    <section className="min-h-screen flex items-center bg-gradient-to-r from-pink-300 to-softpink px-6 md:px-12">
+    <section className="min-h-screen flex items-center bg-gradient-to-r from-gold to-nude px-6 md:px-12">
       <div className="max-w-7xl mx-auto grid lg:grid-cols-2 items-center gap-12 w-full">
         {/* Left Content */}
         <div className="mt-20 lg:mt-0">
@@ -16,15 +16,15 @@ const Hero = () => {
 
           <div className="mt-8 flex flex-wrap gap-4">
             <button
-              className="bg-pink-400 md:text-2xl text-white px-6 py-3 rounded-full 
-             hover:bg-pink-300 transition duration-300"
+              className="bg-chocolate md:text-2xl text-white px-6 py-3 rounded-full 
+             hover:bg-gold transition duration-300"
             >
               Shop Collection
             </button>
 
             <button
               className="border border-chocolate md:text-2xl px-6 py-3 rounded-full 
-              hover:bg-pink-300 hover:text-white transition duration-300"
+              hover:bg-white/50 hover:text-gray-400 transition duration-300"
             >
               View Lookbook
             </button>

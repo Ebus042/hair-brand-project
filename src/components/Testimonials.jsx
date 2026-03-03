@@ -1,6 +1,6 @@
 const Testimonials = () => {
   return (
-    <section className="py-20 px-8 bg-gradient-to-r from-pink-300 to-softpink text-center">
+    <section className="py-20 px-8 text-center">
       <h2 className="text-4xl font-bold mb-10">5,000+ Happy Queens 👑</h2>
 
       <div className="max-w-3xl mx-auto bg-nude p-10 rounded-3xl shadow-lg">

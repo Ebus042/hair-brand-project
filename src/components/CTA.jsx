@@ -1,19 +1,19 @@
 const CTA = () => {
   return (
-    <section className="py-24 bg-chocolate text-gray-600 relative overflow-hidden">
+    <section className="py-24 bg-chocolate text-white relative overflow-hidden">
       <div className="max-w-6xl mx-auto px-6 md:px-12 text-center">
         <h2 className="text-4xl md:text-5xl font-bold leading-tight">
           Ready To Transform Your Look?
         </h2>
 
-        <p className="mt-6 text-lg text-gray-400 max-w-2xl mx-auto">
+        <p className="mt-6 text-lg text-gray-200 max-w-2xl mx-auto">
           Join over 5,000+ confident queens across Nigeria who trust KrownLuxe
           for premium, long-lasting human hair.
         </p>
 
         <button
           className="mt-10 bg-gold text-black font-semibold 
-          px-8 py-4 rounded-full text-lg bg-pink-300
+          px-8 py-4 rounded-full text-lg bg-nude
           hover:scale-105 hover:shadow-2xl 
           transition duration-300"
         >
